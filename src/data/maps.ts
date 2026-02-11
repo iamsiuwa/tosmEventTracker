@@ -123,4 +123,10 @@ export const maps: MapData[] = [
     { episode: 15, level: 120, name: '坦尼爾1世紀念區', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Taniel I Commemorative Orb' },
     { episode: 15, level: 123, name: '緹玫勒斯寺院', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Timerys Temple' }
 
+    // EP16
+    { episode: 16, level: 125, name: '1杰洛梅爾廣場', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Jeromel Park' },
+    { episode: 16, level: 128, name: '1尤那耶爾紀念區', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Jonael Commemorative Orb' },
+    { episode: 16, level: 130, name: '1坦尼爾1世紀念區', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Taniel I Commemorative Orb' },
+    { episode: 16, level: 133, name: '1緹玫勒斯寺院', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Timerys Temple' }
+
 ];
