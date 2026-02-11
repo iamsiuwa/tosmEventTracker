@@ -114,7 +114,7 @@ export const maps: MapData[] = [
     { episode: 14, level: 105, name: '娜圖森林', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Nheto Forest' },
     { episode: 14, level: 107, name: '史巴賓嘉斯森林', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Svalphinghas Forest' },
     { episode: 14, level: 109, name: '娜塔勒森林', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Lhadar Forest' },
-    { episode: 14, level: 111, name: '泰芙林鐘乳洞1區域', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Tevhrin Stalactite Cave Section 1' },
+    { episode: 14, level: 111, name: '3泰芙林鐘乳洞1區域', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Tevhrin Stalactite Cave Section 1' },
     { episode: 14, level: 113, name: '泰芙林鐘乳洞2區域', maxStages: 4, isStarred: false, respawnTime: 25 * 60 + 15, imagePath: `${BASE_URL}maps/XXXXXX.webp`, enName: 'Tevhrin Stalactite Cave Section 2' },
 
     // EP15
